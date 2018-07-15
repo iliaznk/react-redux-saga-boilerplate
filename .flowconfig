@@ -1,0 +1,15 @@
+[ignore]
+<PROJECT_ROOT>/public/.*
+<PROJECT_ROOT>/.*/tests/.*
+.*/node_modules/config-chain/test/broken.json
+
+[include]
+<PROJECT_ROOT>/src
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
